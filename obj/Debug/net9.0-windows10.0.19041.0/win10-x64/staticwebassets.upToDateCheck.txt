@@ -1,0 +1,10 @@
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\Images\college.png
+wwwroot\Images\Student.jpg
+wwwroot\index.html
+D:\Workshop7\wwwroot\index.html
+D:\Workshop7\wwwroot\css\bootstrap\bootstrap.min.css.map
+D:\Workshop7\wwwroot\css\bootstrap\bootstrap.min.css
+D:\Workshop7\wwwroot\css\app.css
