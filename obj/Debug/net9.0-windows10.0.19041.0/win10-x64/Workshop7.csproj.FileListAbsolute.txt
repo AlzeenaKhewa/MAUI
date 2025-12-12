@@ -583,3 +583,4 @@ D:\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\pri.resfiles.interme
 D:\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 D:\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Workshop7.sourcelink.json
